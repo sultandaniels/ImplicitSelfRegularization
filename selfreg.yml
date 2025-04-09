@@ -1,0 +1,15 @@
+name: selfreg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - tensorflow
+  - keras
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - powerlaw
+  - pip
